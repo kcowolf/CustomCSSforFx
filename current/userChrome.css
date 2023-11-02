@@ -178,7 +178,7 @@
    [!] Firefox 88 icon set uses SVG images
 */
 
-@import "./css/buttons/icons_colorized.css"; /**/
+/* @import "./css/buttons/icons_colorized.css"; /**/
 /* @import "./css/buttons/icons_white_icons.css"; /**/
 /* @import "./css/buttons/icons_custom_icons.css"; /**/
 /* @import "./css/buttons/icons_custom_icons_fx1.css"; /**/
@@ -219,7 +219,7 @@
    [!] good for Dark themes: buttons_on_navbar_glass_appearance.css
 */
 
-@import "./css/buttons/buttons_on_navbar_classic_appearance.css"; /**/
+/* @import "./css/buttons/buttons_on_navbar_classic_appearance.css"; /**/
 /* @import "./css/buttons/buttons_on_navbar_classic_appearance_v2.css"; /**/
 /* @import "./css/buttons/buttons_on_navbar_classic_appearance_dark.css"; /**/		
 /* @import "./css/buttons/buttons_on_navbar_aero_appearance.css"; /**/
@@ -483,7 +483,7 @@
 */
 
 /* label only */
-@import "./css/appbutton/appbutton_in_titlebar.css"; /**/
+/* @import "./css/appbutton/appbutton_in_titlebar.css"; /**/
 
 /* icon only */
 /* @import "./css/appbutton/appbutton_in_titlebar_icon_only.css"; /**/
@@ -513,7 +513,7 @@
    [!] only use one option at a time
 */
 
-@import "./css/appbutton/appbutton_in_titlebar_autocolor.css"; /**/
+/* @import "./css/appbutton/appbutton_in_titlebar_autocolor.css"; /**/
 /* @import "./css/appbutton/appbutton_in_titlebar_autocolor57p.css"; /**/
 /* @import "./css/appbutton/appbutton_in_titlebar_transparent.css"; /**/
 /* @import "./css/appbutton/appbutton_in_titlebar_semi_transparent.css"; /**/
@@ -579,7 +579,7 @@
    [!] only use one option at a time
 */
 
-/* @import "./css/tabs/tabs_below_navigation_toolbar.css"; /**/ /* for Firefox 133+ */
+@import "./css/tabs/tabs_below_navigation_toolbar.css"; /**/ /* for Firefox 133+ */
 /* @import "./css/tabs/tabs_below_navigation_toolbar_fx128-132.css"; /**/ /* for Firefox 128-132 */
 
 
@@ -1265,9 +1265,9 @@
 */
 
 @import "./css/locationbar/ac_popup_megabar_compact_results.css"; /**/
-/* @import "./css/locationbar/ac_popup_megabar_searchwith_and_visit_items_hidden.css"; /**/
-/* @import "./css/locationbar/ac_popup_megabar_suggest_label_hidden.css"; /**/
-/* @import "./css/locationbar/ac_popup_megabar_search_engines_hidden.css"; /**/
+@import "./css/locationbar/ac_popup_megabar_searchwith_and_visit_items_hidden.css"; /**/
+@import "./css/locationbar/ac_popup_megabar_suggest_label_hidden.css"; /**/
+@import "./css/locationbar/ac_popup_megabar_search_engines_hidden.css"; /**/
 /* @import "./css/locationbar/ac_popup_megabar_result_highlighting_aero.css"; /**/
 /* @import "./css/locationbar/ac_popup_megabar_result_separator.css"; /**/
 
